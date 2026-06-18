@@ -25,5 +25,14 @@
         "prioridade": "Alta",
         "status": "Aberto",
         "data_criacao": "18/06/2026 20:13"
+    },
+    {
+        "id": 4,
+        "cliente": "Lucas",
+        "titulo": "Teste",
+        "descricao": "Testando",
+        "prioridade": "Baixa",
+        "status": "Aberto",
+        "data_criacao": "18/06/2026 20:28"
     }
 ]
